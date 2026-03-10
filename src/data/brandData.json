@@ -1,0 +1,136 @@
+{
+  "brands": {
+    "Digital House": {
+      "status_quo": "Organización educativa de habilidades digitales y EdTech operando a nivel regional en LATAM con una reciente transición hacia modelos 'On Demand'.",
+      "strengths": [
+        "Autoridad por asociación al estar vinculada con unicornios y gigantes como Mercado Libre y Globant.",
+        "Agilidad narrativa destacada al adueñarse rápidamente del tópico de la Inteligencia Artificial.",
+        "Flexibilidad de producto adaptándose al mercado mediante micro-certificaciones On Demand."
+      ],
+      "weaknesses": [
+        "Riesgo de percepción de ser una fábrica procesadora masiva de alumnos, carente de un vínculo humano.",
+        "Alta dependencia del prestigio de sus partners corporativos externos.",
+        "Pérdida del valor de pertenencia y comunidad al minimizar su infraestructura física."
+      ],
+      "differentiators": "Co-creación directa de programas educativos con empresas líderes (Mercado Libre, Globant), facilitando la contratación directa."
+    },
+    "Platzi": {
+      "status_quo": "Plataforma EdTech global enfocada en la comunidad hispana, liderando la adopción transversal de la Inteligencia Artificial de forma masiva.",
+      "strengths": [
+        "Velocidad excepcional para colonizar narrativamente cualquier nueva tendencia tecnológica.",
+        "Fuerte liderazgo de pensamiento y opinión pública impulsado por su CEO.",
+        "Gamificación del aprendizaje a través de desafíos diarios cortos y ligas."
+      ],
+      "weaknesses": [
+        "Riesgo de 'fatiga de IA', alejando a los estudiantes enfocados en habilidades blandas.",
+        "Extrema dependencia de la figura y marca personal de su CEO, Freddy Vega.",
+        "Percepción de ofrecer 'cursos rápidos' en contraste con modelos de carrera completos universitarios."
+      ],
+      "differentiators": "Estatus de 'insider tecnológico' junto con una comunidad vibrante y métodos de aprendizaje gamificados (Vibecoders League)."
+    },
+    "Teclab": {
+      "status_quo": "Instituto Técnico Superior en Argentina posicionado como EdTech, ofreciendo carreras oficiales online con tono de cercanía y vibra startup.",
+      "strengths": [
+        "Claridad absoluta al combinar duración de 2 años, Título Oficial y respaldo empresarial.",
+        "Excelente uso de la prueba social mostrando historias de graduados y recepciones en vivo.",
+        "Sólido posicionamiento SEO orgánico funcionando como referente en su blog."
+      ],
+      "weaknesses": [
+        "Baja visibilidad e invisibilización de su propio cuerpo docente en la comunicación institucional.",
+        "Producción en redes sociales que en ocasiones resulta demasiado genérica, táctica o promocional.",
+        "Dependencia en marcas tecnológicas (ej. Google) que puede diluir su propuesta autónoma."
+      ],
+      "differentiators": "Entrega de Títulos Oficiales aprobados en solo 2 años (rompiendo formatos tradicionales) y certificaciones intermedias avaladas."
+    },
+    "Coderhouse": {
+      "status_quo": "Escuela de educación online en vivo masiva transitando hacia un modelo de suscripción continua (CoderPro) potenciada por IA.",
+      "strengths": [
+        "Percepción de precio imbatible y alto valor por clases en modalidad sincrónica (Live).",
+        "Ecosistema de contenidos muy potente que domina en IA a nivel regional.",
+        "Impecable estrategia de adaptación y localización de marketing para cada país de LATAM."
+      ],
+      "weaknesses": [
+        "Deshumanización percibida por la enorme automatización y pérdida del contacto humano con el tutor.",
+        "Saturación de catálogo y mensajes que pueden abrumar al usuario diluyendo la propuesta.",
+        "Alta vulnerabilidad reputacional generada por quejas en redes ante respuestas automatizadas."
+      ],
+      "differentiators": "Democratización vía descuentos constantes y agresivos (CoderBecas), tutoría 24/7 y comunidad inmensa."
+    }
+  },
+  "overlap": [
+    "Fuerte enfoque táctico y dominio sobre Inteligencia Artificial como eje transversal educativo.",
+    "Promesa orientada firmemente a garantizar empleabilidad, reskilling y rápida inserción laboral.",
+    "Uso intensivo de casos de éxito y prueba social en blogs y YouTube.",
+    "Baja en la percepción de soporte humano y alta invisibilización del rol docente (priorizan marcas o la plataforma)."
+  ],
+  "intensity": [
+    {
+      "topic": "Inteligencia Artificial",
+      "Digital House": 10,
+      "Platzi": 10,
+      "Teclab": 8,
+      "Coderhouse": 10
+    },
+    {
+      "topic": "Empleabilidad (Salida Laboral)",
+      "Digital House": 9,
+      "Platzi": 9,
+      "Teclab": 10,
+      "Coderhouse": 9
+    },
+    {
+      "topic": "Comunidad / Pertenencia",
+      "Digital House": 5,
+      "Platzi": 9,
+      "Teclab": 5,
+      "Coderhouse": 9
+    },
+    {
+      "topic": "Título Oficial / Validez",
+      "Digital House": 8,
+      "Platzi": 5,
+      "Teclab": 10,
+      "Coderhouse": 5
+    },
+    {
+      "topic": "Precio y Accesibilidad",
+      "Digital House": 7,
+      "Platzi": 6,
+      "Teclab": 6,
+      "Coderhouse": 10
+    },
+    {
+      "topic": "Motivación (Transformación)",
+      "Digital House": 8,
+      "Platzi": 9,
+      "Teclab": 8,
+      "Coderhouse": 8
+    },
+    {
+      "topic": "Desafíos por Tramo Corto",
+      "Digital House": 8,
+      "Platzi": 9,
+      "Teclab": 9,
+      "Coderhouse": 9
+    },
+    {
+      "topic": "Humanización / Vínculo Real",
+      "Digital House": 2,
+      "Platzi": 1,
+      "Teclab": 2,
+      "Coderhouse": 1
+    }
+  ],
+  "insights": [
+    "1. Reducir dependencia corporativa: Visibilizar al cuerpo docente propio emulando el liderazgo de pensamiento que hoy capitaliza Platzi.",
+    "2. Atacar la 'Fábrica Masiva': Capitalizar las quejas de deshumanización de Coderhouse y Digital House ofreciendo posicionamiento desde 'Prestigio Académico Humano'.",
+    "3. Velocidad de Reacción: Agilizar contenido sobre nuevas herramientas para evitar que el material actual se perciba meramente promocional o rezagado.",
+    "4. Pivot a Long-term Career: Evolucionar del táctico al pensamiento crítico para diferenciarse de los cursos exprés que carecen de impacto a largo plazo.",
+    "5. Gamificación: Implementar ligas o desafíos de estudio como Platzi (15-21 días) para fomentar consistencia emocional en los inscriptos de carreras de 2 años.",
+    "6. Cerrar el Gap Visual: En la publicidad gráfica, mostrar las 'caras humanas' reales de los mentores en vez de depender exclusivamente del logo de la plataforma.",
+    "7. Apalancar el Título: El título oficial del Ministerio es el gran 'Moat' de Teclab; remarcarlo donde los competidores venden 'certificaciones aisladas'.",
+    "8. De Diccionario a Ecosistema: El blog técnico excelente que hoy tienen debe transformarse en una biblioteca visual (youtube shorts, lives) al estilo CoderLibrary.",
+    "9. Contraste de Modelo: Evitar competir en volumen y saturación de descuentos; comunicar una experiencia integral, seleccionada y menos abrumadora.",
+    "10. Eventos Sincrónicos: Generar eventos masivos tipo 'Platzi Live' para fomentar pertenencia emocional usando las mismas ventajas de comunidad de los competidores."
+  ]
+}
