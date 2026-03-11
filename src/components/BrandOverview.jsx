@@ -5,14 +5,16 @@ const bgColorMap = {
   "Digital House": "bg-digitalhouse/10 border-digitalhouse/20",
   "Platzi": "bg-platzi/10 border-platzi/20",
   "Teclab": "bg-teclab/10 border-teclab/20",
-  "Coderhouse": "bg-coderhouse/10 border-coderhouse/20"
+  "Coderhouse": "bg-coderhouse/10 border-coderhouse/20",
+  "Henry": "bg-henry/10 border-henry/20"
 };
 
 const textColorMap = {
   "Digital House": "text-digitalhouse",
   "Platzi": "text-platzi",
   "Teclab": "text-teclab",
-  "Coderhouse": "text-coderhouse"
+  "Coderhouse": "text-coderhouse",
+  "Henry": "text-henry"
 };
 
 export function BrandOverview({ data }) {

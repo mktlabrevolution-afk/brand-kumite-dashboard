@@ -3,7 +3,9 @@ import brandData from './data/brandData.json';
 import { BrandOverview } from './components/BrandOverview';
 import { TopicIntensityChart } from './components/TopicIntensityChart';
 import { StrategicInsights } from './components/StrategicInsights';
-import { LayoutDashboard, Users, Activity } from 'lucide-react';
+import { LayoutDashboard, Users, Activity, ImageIcon } from 'lucide-react';
+
+const INFOGRAPHIC_URL = "https://lh3.googleusercontent.com/notebooklm/ANHLwAy4feAIJlN6apBL-NsJ5nlw2Uj-OIBfEb8XFSggQ-jA0bpni18rCdePXWMK6Z1KoAx994QXHc7bUj7djHnGzPh9_UaNB3_Q4TD7X5McGl6Ep0zmMOgC6B6qnF5bChqsYFq0Er1f1brufOPwdVj7L5X65dp96UI=w2752-d-h1536-mp2?authuser=0";
 
 function App() {
   const [data, setData] = useState(null);
@@ -36,7 +38,7 @@ function App() {
           
           <div className="hidden md:flex gap-6 text-sm font-medium">
             <span className="flex items-center text-teclab"><Activity className="w-4 h-4 mr-2" /> Live Analysis</span>
-            <span className="flex items-center text-slate-400"><Users className="w-4 h-4 mr-2" /> 4 Brands</span>
+            <span className="flex items-center text-slate-400"><Users className="w-4 h-4 mr-2" /> 5 Brands</span>
           </div>
         </div>
       </header>
@@ -94,6 +96,26 @@ function App() {
         {/* Strategic Insights */}
         <section className="pt-8">
            <StrategicInsights data={data} />
+        </section>
+
+        {/* Infographic Generation */}
+        <section className="pt-8">
+          <div className="flex items-center mb-6">
+            <div className="h-8 w-1.5 bg-emerald-500 rounded-full mr-4"></div>
+            <h2 className="text-2xl font-bold text-white flex items-center">
+              <ImageIcon className="w-5 h-5 text-emerald-400 mr-2" />
+              Infografía: Panorama Educación Tecnológica 2026
+            </h2>
+          </div>
+          <div className="glass rounded-2xl p-2 w-full mx-auto relative group overflow-hidden border border-white/10 shadow-2xl">
+            <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none z-10" />
+            <img 
+              src={INFOGRAPHIC_URL} 
+              alt="Infografía generada por NotebookLM" 
+              className="w-full h-auto rounded-xl shadow-lg ring-1 ring-white/10"
+              loading="lazy"
+            />
+          </div>
         </section>
         
       </main>

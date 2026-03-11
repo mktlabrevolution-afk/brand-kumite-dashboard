@@ -46,6 +46,13 @@ export function TopicIntensityChart({ data }) {
               fill="#f59e0b"
               fillOpacity={0.4}
             />
+            <Radar
+              name="Henry"
+              dataKey="Henry"
+              stroke="#eab308"
+              fill="#eab308"
+              fillOpacity={0.4}
+            />
             
             <Tooltip
               contentStyle={{ backgroundColor: '#1e293b', border: '1px solid rgba(255,255,255,0.1)', borderRadius: '8px' }}

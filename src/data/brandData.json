@@ -55,6 +55,20 @@
         "Alta vulnerabilidad reputacional generada por quejas en redes ante respuestas automatizadas."
       ],
       "differentiators": "Democratización vía descuentos constantes y agresivos (CoderBecas), tutoría 24/7 y comunidad inmensa."
+    },
+    "Henry": {
+      "status_quo": "Jugador disruptivo en el mercado EdTech de LATAM (Bootcamp) enfocado en la movilidad social ascendente y el éxito laboral garantizado, cuya narrativa está fuertemente dictada por su modelo de negocio de Acuerdos de Ingresos Compartidos (ISA).",
+      "strengths": [
+        "Modelo de negocio (ISA) que funciona como una herramienta de marketing imbatible y diferencial único.",
+        "Generación de prueba social masiva y orgánica mediante constantes historias de éxito aspiracionales.",
+        "Construcción de una narrativa de 'comunidad' muy sólida y sentido de pertenencia."
+      ],
+      "weaknesses": [
+        "Genera una percepción de 'riesgo' o futura deuda en los usuarios debido al modelo de ingresos compartidos.",
+        "Carece de respaldo académico tradicional formal o de validez ministerial u oficial.",
+        "Dependencia casi total del mercado laboral tech: se debilita enormemente si la industria entra en crisis de contrataciones (layoffs)."
+      ],
+      "differentiators": "Su diferenciador más disruptivo es el pago diferido (estudiar ahora y pagar solo al conseguir empleo bajo un modelo ISA), combinado su promesa implícita de meritocracia digital y foco regional unificado."
     }
   },
   "overlap": [
@@ -69,56 +83,64 @@
       "Digital House": 10,
       "Platzi": 10,
       "Teclab": 8,
-      "Coderhouse": 10
+      "Coderhouse": 10,
+      "Henry": 9
     },
     {
       "topic": "Empleabilidad (Salida Laboral)",
       "Digital House": 9,
       "Platzi": 9,
       "Teclab": 10,
-      "Coderhouse": 9
+      "Coderhouse": 9,
+      "Henry": 10
     },
     {
       "topic": "Comunidad / Pertenencia",
       "Digital House": 5,
       "Platzi": 9,
       "Teclab": 5,
-      "Coderhouse": 9
+      "Coderhouse": 9,
+      "Henry": 9
     },
     {
       "topic": "Título Oficial / Validez",
       "Digital House": 8,
       "Platzi": 5,
       "Teclab": 10,
-      "Coderhouse": 5
+      "Coderhouse": 5,
+      "Henry": 1
     },
     {
       "topic": "Precio y Accesibilidad",
       "Digital House": 7,
       "Platzi": 6,
       "Teclab": 6,
-      "Coderhouse": 10
+      "Coderhouse": 10,
+      "Henry": 10
     },
     {
       "topic": "Motivación (Transformación)",
       "Digital House": 8,
       "Platzi": 9,
       "Teclab": 8,
-      "Coderhouse": 8
+      "Coderhouse": 8,
+      "Henry": 9
     },
     {
       "topic": "Desafíos por Tramo Corto",
       "Digital House": 8,
       "Platzi": 9,
       "Teclab": 9,
-      "Coderhouse": 9
+      "Coderhouse": 9,
+      "Henry": 8
     },
     {
       "topic": "Humanización / Vínculo Real",
       "Digital House": 2,
       "Platzi": 1,
       "Teclab": 2,
-      "Coderhouse": 1
+      "Coderhouse": 1,
+      "Henry": 5
     }
   ],
   "insights": [

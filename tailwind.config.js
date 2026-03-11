@@ -13,6 +13,7 @@ export default {
         'digitalhouse': '#f43f5e', // rose/red
         'platzi': '#10b981', // green
         'coderhouse': '#f59e0b', // amber
+        'henry': '#eab308', // yellow
       }
     },
   },
